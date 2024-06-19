@@ -1,0 +1,181 @@
+
+
+body{
+background-image: none;
+align-self: center;
+display: block
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#Breaktime
+{
+background-color: blue;
+
+
+}
+
+
+#pomoinfopage
+{
+background-color: cadetblue;
+color:white
+}
+
+li
+{ 
+ align-items: center;
+ margin-left: 30px;
+ margin-top: 10;
+ padding-top: 80px;
+}
+#menu
+{display: block;
+ align-items: center;
+} 
+ 
+form
+{
+height:300px;
+width: 300px;
+border-radius: 180px;
+background-color: rgba(40, 35, 190, 0.549);
+color:rgb(255, 255, 255);
+margin-left: 300px;
+}
+
+#minutes{
+    font-size:larger;
+    background-color: black;
+    border-color: black, 5px;
+    border-style:solid;
+    height: fit-content;
+    width: fit-content;
+    margin-top: 50px;
+    border-radius: 90px;
+  }
+
+
+#timerbar{
+
+  display: inline-flex;
+}
+
+#seconds {
+  font-size:larger;
+  background-color: black;
+  border-color: black, 5px;
+  border-style: solid;
+  height:fit-content;
+  width:fit-content;
+  margin-top: 50px;
+  border-radius: 90px;
+}
+
+
+#greetingbox {
+  border-radius: 90px;
+  background-color: cadetblue;
+  align-items: center;
+  width: 900px;
+  height: 1000px;
+  text-align: center;
+  margin-right: 550px;
+}
+
+
+#greeting {
+
+  height: 80px;
+  width: 250px;
+  color: rgb(255, 255, 255)
+}
+ #timerbox
+ {
+display: grid;
+ display: block;
+  height: 150;
+  width: 900px;
+  max-width: 200;
+  border-radius: 180px;
+ 
+  align-items: 'center';
+  font-size:xx-large;
+  text-align: center;
+  
+ }
+
+#pomolist
+{
+height:100px;
+width:100px;
+
+
+}
+
+#profilebutton
+{  
+    padding-bottom: 20px;
+    height: 100px;
+    width: 140px;
+ 
+  }
+#pomobutton
+{   padding-bottom: 20px;
+    height: 100px;
+    width: 140px;
+    margin-left: 20px;
+  }
+#timerform
+{
+background-color: cadetblue;
+align-items: center;
+display: block;
+}
+  
+  
+#tomatopic
+{
+height:250px;
+width:250px;
+
+}
+
+ 
+#loginbox {
+  border-radius: 180px;
+  background-color: cadetblue;
+  align-items: center;
+  width: fit-content;
+  height: 1200px;
+  text-align: center;
+  margin-left: 15px;
+  font-size: larger;
+}
+
+#newprofilebox {
+  border-radius: 180px;
+  padding-top: 150px;
+  padding-right:250px;
+  background-color: cadetblue;
+  align-items: center;
+  width: fit-content;
+  height: 800px;
+  text-align: center;
+  
+  font-size: larger;
+}
+
+
+#buttonbox
+{
+ padding-top:40px;
+margin-left: 100px;
+display:block;
+align-items: center;
+}
